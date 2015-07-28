@@ -5,4 +5,25 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <!-- Regular apps button styling -->
+
+    <style name="btnRegularApp" parent="android:Widget.Button">
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:background">#FF9800</item>
+    </style>
+
+
+    <!-- Capstone app button styling -->
+
+    <style name="btnCapstone" parent="android:Widget.Button">
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">#E65100</item>
+    </style>
+
 </resources>
