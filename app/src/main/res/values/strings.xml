@@ -3,12 +3,17 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="main_list_title">My Nanodegree Apps!</string>
-    <string name="main_app1_title">SPOTIFY STREAMER</string>
-    <string name="main_app2_title">SCORES APP</string>
-    <string name="main_app3_title">LIBRARY APP</string>
-    <string name="main_app4_title">BUILD IT BIGGER</string>
-    <string name="main_app5_title">XYZ READER</string>
-    <string name="main_app6_title">CAPSTONE: MY OWN APP</string>
+    <string name="main_app1_title">Spotify Streamer</string>
+    <string name="main_app2_title">Scores</string>
+    <string name="main_app3_title">Library</string>
+    <string name="main_app4_title">Build it Bigger</string>
+    <string name="main_app5_title">XYZ Reader</string>
+    <string name="main_app6_title">Capstone: My Own</string>
+
+    <string name="main_app_app">app</string>
+    <string name="main_app_launch">This button will launch the</string>
+
+    <string name="main_app_toast_message">%1$s %2$s %3$s</string>
 
     <string name="action_settings">Settings</string>
 </resources>
